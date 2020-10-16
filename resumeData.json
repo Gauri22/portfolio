@@ -1,0 +1,83 @@
+{
+    "main": {
+        "name": "Gauri Itankar",
+        "occupation": "Student of BCA",
+        "description": "Full Stack React Developer and web-Developer #loveuzindagi",
+        "image": "IG_Sonny.jpeg",
+        "bio": "My name is Gauri, I'm a Full Stack ReactJS Developer. Currently I'm Studing in Dr Ambetkar Collage, Nagpur ",
+        "contactmessage": "Get in touch with me to receive further details.",
+        "email": "gauriitankar00@gmail.com",
+        "phone": "8600488870",
+        "address": {
+            "street": "sindi rly, near iron bridege",
+            "city": "Wardha",
+            "state": "Maharashtra",
+            "zip": "442105"
+        },
+        "website": "https://gauri22.github.io",
+        "resumedownload": "biodata.pdf",
+        "social": [{
+                "name": "facebook",
+                "url": "https://www.facebook.com/Gauri.itankar",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/Gauri/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/_gauri_226/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "http://github.com/gauri22",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "I have programming knowledge,UX & UI designer and I have successfully created website",
+        "education": [{
+            "school": "Dr Ambetkar Collage,Nagpur University",
+            "degree": "Bachelor of computer Application",
+            "Year": "2nd year"
+        }],
+
+        "skills": [{
+                "name": "ReactJs",
+                "level": "40%"
+            },
+            {
+                "name": "CSS",
+                "level": "95%"
+            },
+            {
+                "name": "Git",
+                "level": "60%"
+            },
+            {
+                "name": "Figma && Adobe XD",
+                "level": "55%"
+            },
+            {
+                "name": "HTML5",
+                "level": "80%"
+            },
+            {
+                "name": "MongoDB",
+                "level": "30%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+            "title": "Static website on drone",
+
+            "url": "https: //gauri22.github.io"
+        }]
+    }
+
+}
